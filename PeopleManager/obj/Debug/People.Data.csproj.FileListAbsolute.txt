@@ -1,0 +1,5 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication27\PeopleManager\bin\Debug\People.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication27\PeopleManager\bin\Debug\People.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication27\PeopleManager\obj\Debug\People.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication27\PeopleManager\obj\Debug\People.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication27\PeopleManager\obj\Debug\People.Data.pdb
